@@ -2,7 +2,7 @@
   "General": [
     {
       "categoria": "General",
-      "pregunta": "¿Cuántas zonas horarias tiene en Rusia?",
+      "pregunta": "¿Cuántas zonas horarias hay en Rusia?",
       "respuesta_correcta": "11",
       "respuestas": [
         "8",
@@ -18,7 +18,7 @@
       "respuestas": [
         "Conejo",
         "Bestia de Tasmania",
-        "Uragutan",
+        "Oragutan",
         "Canguro"
       ]
     },
@@ -27,7 +27,7 @@
       "pregunta": "¿Cuál es el idioma que tiene más palabras (según su diccionario)?",
       "respuesta_correcta": "Inglés",
       "respuestas": [
-        "Aleman",
+        "Alemán",
         "Español",
         "Inglés",
         "Ruso"
@@ -114,7 +114,7 @@
   "Geografía": [
     {
       "categoria": "Geografía",
-      "pregunta": "¿Cómo se llamaba Istanbul antes de 1923?",
+      "pregunta": "¿Cómo se llamaba Estanbul antes de 1923?",
       "respuesta_correcta": "Constantinopla",
       "respuestas": [
         "Vanuatu",
@@ -141,7 +141,7 @@
       "respuestas": [
         "Amazonas",
         "Misisipi",
-        "Mi piscina",
+        "Guadalquivir",
         "Río Nilo"
       ]
     },
@@ -151,7 +151,7 @@
       "respuesta_correcta": "El Vaticano",
       "respuestas": [
         "El salvador",
-        "hawaii",
+        "Hawaii",
         "Mónaco",
         "El Vaticano"
       ]
@@ -218,7 +218,7 @@
       "respuestas": [
         "Estados Unidos y Rusia",
         "Estados Unidos y Alemania",
-        "Estados Unidos y Pakista",
+        "Estados Unidos y Pakistan",
         "Estados Unidos y Polo Norte"
       ]
     }
@@ -431,10 +431,89 @@
       "pregunta": " ¿Qué ciencia estudia la sangre?",
       "respuesta_correcta": "hematología",
       "respuestas": [
-        "hematología",
-        "forense",
-        "oncologia",
-        "cirugia"
+        "Hematología",
+        "Forense",
+        "Oncologia",
+        "Cirugía"
+      ]
+    }
+  ],
+  "Japón": [
+    
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es el ave nacional de Japón?",
+      "respuesta_correcta": "Faisán verde",
+      "respuestas": [
+        "Golondrina",
+        "Amauso",
+        "Suzaku",
+        "Faisán verde"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuántas prefecturas tiene Japón?",
+      "respuesta_correcta": "47",
+      "respuestas": [
+        "34",
+        "45",
+        "80",
+        "47"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es el anime más largo del mundo?",
+      "respuesta_correcta": "Sazae-san",
+      "respuestas": [
+        "One Piece",
+        "Doraemon",
+        "Naruto",
+        "Sazae-san"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuántos habitantes tiene Japón?",
+      "respuesta_correcta": "128 millones",
+      "respuestas": [
+        "76 millones",
+        "89 millones",
+        "251 millones",
+        "128 millones"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es la moneda oficial de Japón?",
+      "respuesta_correcta": "Yen",
+      "respuestas": [
+        "Euro",
+        "Peso",
+        "Won"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es la capital de Japón?",
+      "respuesta_correcta": "Tokio",
+      "respuestas": [
+        "Nueva York",
+        "Shangai",
+        "Seúl",
+        "Tokio"
+      ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cómo se llama la bandera de Japón?",
+      "respuesta_correcta": "Hinomaru",
+      "respuestas": [
+        "Mahinoru",
+        "Hinomaru",
+        "Sakumano",
+        "Hinomaru"
       ]
     }
   ]
