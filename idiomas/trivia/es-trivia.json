@@ -437,5 +437,82 @@
         "cirugia"
       ]
     }
-  ]
+  ],
+  "Japón": [
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es el ave nacional de Japón?",
+      "respuesta_correcta": "Faisán verde",
+      "respuestas": [
+        "Golondrina",
+        "Amauso",
+        "Suzaku",
+        "Faisán verde"
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es el anime más largo del mundo?",
+      "respuesta_correcta": "Sazae-san",
+      "respuestas": [
+        "One Piece",
+        "Doraemon",
+        "Naruto",
+        "Sazae-san"
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuántas prefecturas tiene Japón?",
+      "respuesta_correcta": "47",
+      "respuestas": [
+        "45",
+        "35",
+        "40",
+        "47"
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es la capital de Japón?",
+      "respuesta_correcta": "Tokio",
+      "respuestas": [
+        "Nueva York",
+        "Seúl",
+        "Shangai",
+        "Tokio"
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuál es la moneda oficial de Japón?",
+      "respuesta_correcta": "Yen",
+      "respuestas": [
+        "Peso",
+        "Euro",
+        "Dólar
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cómo se llama la bandera de Japón?",
+      "respuesta_correcta": "Hinomaru",
+      "respuestas": [
+        "Maruhiro",
+        "Mahinoru",
+        "Nomahiro",
+        "Hinomaru"
+        ]
+    },
+    {
+      "categoria": "Japón",
+      "pregunta": "¿Cuántos habitantes tiene Japón?",
+      "respuesta_correcta": "128 millones",
+      "respuestas": [
+        "76 millones",
+        "89 millones",
+        "130 millones",
+        "128 millones"
+        ]
+    }
 }
